@@ -18,9 +18,7 @@ they follow the newest published non-prerelease automatically.
 
 Each Windows release contains:
 
-- `Koma-Shot-x64-setup.exe` — recommended current-user installer and updater
-  payload.
-- `Koma-Shot-x64.msi` — alternative MSI installer.
+- `Koma-Shot-x64-setup.exe` — the current-user installer and updater payload.
 - `latest.json` and `Koma-Shot-x64-setup.exe.sig` — signed automatic-update
   metadata.
 - `SHA256SUMS.txt` — SHA-256 checksums for the published files.
